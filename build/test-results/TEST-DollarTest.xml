@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DollarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-01-06T18:43:53" hostname="Kamils-MacBook-Pro-2.local" time="0.002">
+<testsuite name="DollarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-01-06T19:22:34" hostname="Kamils-MacBook-Pro-2.local" time="0.003">
   <properties/>
   <testcase name="testMultiplication" classname="DollarTest" time="0.002"/>
   <testcase name="testEquality" classname="DollarTest" time="0.0"/>
